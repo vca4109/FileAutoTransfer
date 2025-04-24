@@ -14,11 +14,8 @@ This Python script scans a source folder for PDF files, detects specific code pa
 🛠️ Setup
 Clone or download this repository to your machine.
 
-Update the following lines in the script with your actual paths:
+Update the following lines in the script with your actual paths (even multiple destinations):
 
-python
-Copy
-Edit
 source_folder = r"your\source\folder\path"
 destination_roots = [r"path\to\destination1",
     r"path\to\destination2",
