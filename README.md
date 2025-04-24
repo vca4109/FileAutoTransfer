@@ -24,6 +24,7 @@ destination_roots = [r"path\to\destination1",
     r"path\to\destination2",
     r"path\to\destination3"
 ]
+
 🔍 How It Works
 The script reads all .pdf files in your source_folder.
 
