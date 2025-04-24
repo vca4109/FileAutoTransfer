@@ -1,5 +1,3 @@
-make me a README because i want to put this in my GitHub Repository:
-
 import os
 import shutil
 import re
