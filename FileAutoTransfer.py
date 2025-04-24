@@ -5,7 +5,11 @@ from datetime import datetime
 
 # 🔁 Set your folders
 source_folder = r"file path source"
-destination_root = r"file path destination"
+destination_roots = [
+    r"path\to\destination1",
+    r"path\to\destination2",
+    r"path\to\destination3"
+]
 
 # Pattern to extract the code
 pattern = r"(NYC-[A-Za-z]+-\d+)"
